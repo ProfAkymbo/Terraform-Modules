@@ -15,6 +15,6 @@ port_listener     = "80"
 protocol_listener = "HTTP"
 
 #variable value declaration for route53
-domain_name     = "steveric.me"
+domain_name     = "oyebanjiakeem.me"
 sub_domain_name = "www"
 
